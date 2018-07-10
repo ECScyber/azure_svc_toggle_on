@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__ = 'pabloquiroga'
-author_email = 'pablo.quiroga@inforeliance.com'
+author_email = 'pablo.quiroga@ecstech.com'
 
 import json
 import requests
